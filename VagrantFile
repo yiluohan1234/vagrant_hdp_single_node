@@ -4,7 +4,7 @@
 # Configure Github Settings
 github_username = "yiluohan1234"
 github_repo     = "vagrant_hdp_single_node"
-github_branch   = "master"
+github_branch   = "main"
 github_url      = "https://raw.githubusercontent.com/#{github_username}/#{github_repo}/#{github_branch}"
 
 # Configure vm settings
